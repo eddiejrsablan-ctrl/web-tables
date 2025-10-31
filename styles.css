@@ -1,0 +1,35 @@
+
+table {
+    border: 1px solid black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    table-layout: fixed;
+    width: 100%;
+    text-align: center;
+}
+
+tbody td, th {
+    border: 1px solid black;
+}
+
+table, td, tr, th {
+    padding: 5px;
+    border-collapse: collapse;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(73, 113, 223);
+}
+
+thead th {
+    background-color: rgb(101, 201, 167);
+}
+
+tbody th {
+    background-color: rgb(87, 83, 83);
+    color: white;
+}
+
+tbody {
+    background-color: rgb(173, 221, 221);
+}
